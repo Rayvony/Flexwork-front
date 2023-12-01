@@ -1,0 +1,59 @@
+.candidatesContainer{
+    margin: 1% auto;
+    width: 75%;
+    padding: 25px 10px 25px 10px;
+    background-color: aliceblue;
+    border-radius: 8px;
+}
+
+
+.topContainer{
+    display: flex;
+    flex-direction: row;
+}
+.cardLeft{
+    width: 85%;
+    cursor: pointer;
+    padding-right: 2%;
+}
+
+.cardRight{
+    display: flex;
+    flex-direction: row;
+    margin-left: 2%;
+    justify-content: flex-start;
+    border-left: 1px solid black;
+    padding-left: 2%;
+    gap: 1vw;
+}
+
+.cardRight button{
+    cursor: pointer;
+}
+
+.closeButton{
+    cursor: pointer;
+    position: relative;
+    left: 96%;
+    transition: 0.12s ease-in-out !important;
+}
+
+.closeButton:hover{
+    transform: rotate(90deg) scale(1.3);
+}
+
+.postulateButtons{
+    display: flex;
+    margin-left: 1vw;
+    gap: 0.5vw;
+}
+
+.postulateButtons button{
+    height: min-content;
+    padding: 10px;
+}
+
+.postulateButtons button:hover{
+    background-color: #0541c9;
+    color:white;
+}

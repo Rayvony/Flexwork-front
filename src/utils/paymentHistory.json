@@ -1,0 +1,53 @@
+[
+  {
+    "id": "bd706820-9a05-4325-9789-73c9840a0e4d",
+    "op_id": 1319278507,
+    "from": {
+      "id": "8414a392-760f-4242-aae8-482f20980823",
+      "name": "EmpresaB"
+    },
+    "to": "f00d8ff1-c13e-4f6a-b1dd-984742f1b7ba",
+    "project": {
+      "id": "f0b222d5-fa43-4c56-b357-869c21eeb6b0",
+      "name": "Juliaca"
+    },
+    "transaction_amount": 1742,
+    "net_received_amount": 1658.77,
+    "status": "approved",
+    "description": "Mineria de Oro"
+  },
+  {
+    "id": "a0c27ac8-b96d-4b0f-965e-2b34c9d00a70",
+    "op_id": 1319284415,
+    "from": {
+      "id": "8414a392-760f-4242-aae8-482f20980823",
+      "name": "EmpresaB"
+    },
+    "to": "f00d8ff1-c13e-4f6a-b1dd-984742f1b7ba",
+    "project": {
+      "id": "6ba68e0e-6df6-4cca-a958-d1f182485e7a",
+      "name": "Trujillo"
+    },
+    "transaction_amount": 1742,
+    "net_received_amount": 1658.77,
+    "status": "approved",
+    "description": "Mineria de Oro"
+  },
+  {
+    "id": "b3e55af4-a7bd-47eb-80c0-c45617f60ad1",
+    "op_id": 1319280581,
+    "from": {
+      "id": "8414a392-760f-4242-aae8-482f20980823",
+      "name": "EmpresaB"
+    },
+    "to": "f00d8ff1-c13e-4f6a-b1dd-984742f1b7ba",
+    "project": {
+      "id": "dfea8d62-c710-4e4e-90f4-76f808d1376f",
+      "name": "Lima"
+    },
+    "transaction_amount": 1742,
+    "net_received_amount": 1658.77,
+    "status": "approved",
+    "description": "Mineria de Oro"
+  }
+]
